@@ -1,0 +1,14 @@
+.DS_*
+*.log
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
+
+webapp/deno
+webapp/perl
+webapp/php
+webapp/python
+webapp/ruby
+webapp/rust
